@@ -1,0 +1,11 @@
+{
+    "name": "exotic-industries-graphics-2",
+    "version": "0.5.0",
+    "title": "Exotic Industries: Graphics 2",
+    "author": "PreLeyZero",
+    "factorio_version": "1.1",
+    "description": "Graphics part of the Exotic Industries mod.",
+    "dependencies": [
+        "base >= 1.0.0"
+    ]
+}
